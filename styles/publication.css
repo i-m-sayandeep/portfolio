@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding : 0;
+    background-color: #ba7bed;
+}
+
+p{
+    text-align: justify;
+    font-size: 20px;
+}
+
+article{
+    font-size: 25px;
+}
+
+hr{
+    border: 1px dashed  black;
+}
+
+#btn{
+    background-color: blue;
+    padding: 5px;
+    margin-top: 5px;
+    border-radius : 4px;
+    color : white
+}
+
+a{
+    text-decoration: none;
+}
+
+/* main style 
+----------------------------------------- */
+
+.paper{
+    padding : 5px;
+    margin : 5px;
+}
+
+#paperone{
+    float: right;
+    padding: 5px;
+    margin : 5px;
+    height : 200px;
+    width : 220px;
+
+}
+
+#papertwo{
+    float: left;
+    padding: 5px;
+    margin : 5px;
+    height : 200px;
+    width : 220px;
+
+}

@@ -1,0 +1,60 @@
+body{
+    background-color: #03fc84;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+p{
+    font-size : 20px;
+    text-align: justify;
+    /* font-family: "Monotype Corsiva"; */
+}
+
+article{
+    font-size: 18px;
+    text-align: justify;
+    font-family: "calibri"
+}
+
+/* main
+ ------------------------------------------------*/ 
+
+ .project{
+     background-color: #03fc84;
+     padding: 5px;
+     margin : 5px;
+ }
+
+
+ #head{
+     border: 2px solid black;
+ }
+
+ hr{
+     border : 2px dashed darkslateblue;
+ }
+
+ h3{
+     font-size: 25px;
+     /* font-family: "sans-serif"; */
+ }
+
+ #train{
+    text-align: left;
+ }
+
+ #to-do{
+    text-align: right;
+ }
+
+ #mit{
+    text-align: left;
+ }
+
+ #movie{
+    text-align: right;
+ }
