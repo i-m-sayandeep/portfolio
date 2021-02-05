@@ -1,0 +1,116 @@
+/* global style *
+-------------------------------------------------------- */
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+a{
+    text-decoration: none;
+}
+
+
+/* main style 
+----------------------------------------------------- */
+.front-image{
+    background-image: url(../images/home1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+    height: 100%;
+    color: whitesmoke;
+    background-color: black;
+}
+
+#name{
+    font-weight: 300;
+    font-size: 100px;
+    text-align: left;
+    margin-bottom: 0;
+    margin-left: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    margin-left: 15px;
+    text-align: left;
+    padding-bottom: 40px;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#quote{
+    font-size: 30px;
+    font-weight: 200;
+    text-align: right;
+    float: right;
+    padding-top: 60px;
+    font-family: Brush Script MT;
+}
+
+#author{
+    text-align: right;
+    font-weight: 150;
+    font-size: 25px;
+    padding: 50px;
+    font-family:  Brush Script MT;
+}
+
+/* header style 
+------------------------------------------------------- */
+
+.header{
+    background-color: black;
+    margin: 0;
+    padding: 20px;
+    text-decoration-style: none;
+}
+
+#btn{
+    background-color: azure;
+    padding:10px;
+    border-radius: 7px;
+    margin:5px;
+    text-decoration: none;
+    color: black;
+}
+
+#btn:hover{
+    background-color: blueviolet;
+    color: whitesmoke;
+}
+
+#btn:active{
+    background-color: blueviolet;
+    color: whitesmoke;
+}
+
+
+/* footer Style 
+----------------------------------------------- */
+
+.footer{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    font-family:Perpetua;
+}
+
+#btn1{
+    background-color: #a86932;
+    padding:10px;
+    border-radius: 7px;
+    margin:5px;
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    margin-top: 10px;;
+}
+
+#btn1:hover{
+    background-color: blueviolet;
+    color: whitesmoke;
+}
+
+#btn1:visited{
+    color: red;
+}
