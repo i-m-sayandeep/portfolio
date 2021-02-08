@@ -7,10 +7,12 @@ body{
 p{
     text-align: justify;
     font-size: 20px;
+    font-family: Charm;
 }
 
 article{
     font-size: 25px;
+    font-family: Satisfy;
 }
 
 hr{
@@ -34,7 +36,8 @@ a{
 
 .paper{
     padding : 5px;
-    margin : 5px;
+    margin :15px;
+    background-color:#dd7be0 ;
 }
 
 #paperone{
@@ -43,6 +46,8 @@ a{
     margin : 5px;
     height : 200px;
     width : 220px;
+    border :2px solid rgb(247, 238, 238);
+    background-color: lightcoral;
 
 }
 
@@ -52,5 +57,12 @@ a{
     margin : 5px;
     height : 200px;
     width : 220px;
+    border :2px solid rgb(247, 238, 238);
+    background-color: lightcoral;
 
+}
+
+#head{
+    padding:10px;
+    margin : 5px;
 }

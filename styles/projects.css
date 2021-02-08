@@ -1,17 +1,20 @@
 body{
-    background-color: #03fc84;
+    background-color: #7be0b6;
     margin: 0;
     padding: 0;
 }
 
 a{
     text-decoration: none;
+    /* font-family: Charm */
 }
 
 p{
     font-size : 20px;
     text-align: justify;
     /* font-family: "Monotype Corsiva"; */
+    font-family: Charm
+    
 }
 
 article{
@@ -24,11 +27,17 @@ article{
  ------------------------------------------------*/ 
 
  .project{
-     background-color: #03fc84;
-     padding: 5px;
-     margin : 5px;
+     background-color: #d1c008;
+     padding: 10px;
+     margin : 15px;
  }
 
+
+ .top{
+    padding: 10px;
+    margin :0;
+    background-color:#c2f043;
+ }
 
  #head{
      border: 2px solid black;
@@ -41,8 +50,13 @@ article{
  h3{
      font-size: 25px;
      /* font-family: "sans-serif"; */
+    
  }
 
+ h1{
+    font-family: Kaushan Script;
+ }
+ 
  #train{
     text-align: left;
  }
