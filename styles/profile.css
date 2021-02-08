@@ -16,10 +16,13 @@ p{
     padding: 5px;
     margin: 3px;
     font-size: 16px;
-    font-family: "Lucida Handwriting";
+    font-family: Charm;
 }
 
 h2{
+    padding: 5px;
+    margin: 3px;
+
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 
     'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -33,8 +36,8 @@ h1{
 .main{
     background-color: #486fe8;
     color:white;
-    margin : 0;
-    padding : 10px;
+    margin : 20px;
+    padding : 30px;
 }
 
 #profile-pic{
